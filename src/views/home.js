@@ -9,7 +9,7 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Beloved Fearless Otter</title>
+        <title>EcoClean Solutins</title>
         <meta property="og:title" content="Beloved Fearless Otter" />
       </Helmet>
       <div className="home-header">
