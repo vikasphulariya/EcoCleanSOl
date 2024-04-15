@@ -25,23 +25,16 @@ const Home = (props) => {
           </span>
           <div data-thq="thq-navbar-nav" className="home-desktop-menu">
             <nav className="home-links"></nav>
-            <div className="home-buttons">
-              <button className="home-login buttonFlat">Login</button>
-              <button className="buttonFilled">Register</button>
-            </div>
+           
           </div>
-          <div data-thq="thq-burger-menu" className="home-burger-menu">
-            <svg viewBox="0 0 1024 1024" className="home-icon socialIcons">
-              <path d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
-            </svg>
-          </div>
+      
           <div
             data-thq="thq-mobile-menu"
             className="home-mobile-menu1 mobileMenu"
           >
             <div className="home-nav">
               <div className="home-top">
-                <span className="logo">ECO-CLEAN</span>
+                <span className="logo">ECOCLEAN</span>
                 <div data-thq="thq-close-menu" className="home-close-menu">
                   <svg
                     viewBox="0 0 1024 1024"
@@ -51,17 +44,8 @@ const Home = (props) => {
                   </svg>
                 </div>
               </div>
-              <nav className="home-links1">
-                <span className="home-nav12 bodySmall">Home</span>
-                <span className="home-nav22 bodySmall">About Us</span>
-                <span className="home-nav32 bodySmall">Services</span>
-                <span className="home-nav42 bodySmall">Products</span>
-                <span className="home-nav52 bodySmall">Contact</span>
-              </nav>
-              <div className="home-buttons1">
-                <button className="buttonFlat">Login</button>
-                <button className="buttonFilled">Register</button>
-              </div>
+            
+             
             </div>
             <div>
               <svg
