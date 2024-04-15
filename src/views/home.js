@@ -241,11 +241,7 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <div className="home-pricing"></div>
-      <div className="home-banner"></div>
-      <div className="home-faq">
-        <div className="home-faq-container faqContainer"></div>
-      </div>
+     
       <div className="home-footer">
         <footer className="footerContainer home-footer1">
           
